@@ -22,8 +22,6 @@ I'm a passionate Computer Science student pursuing a B.Tech with a specializatio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupanjan-ghosh/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupanjanghosh100@gmail.com)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=green)
-
 ---
 
 ### Thanks for visiting! 😊
