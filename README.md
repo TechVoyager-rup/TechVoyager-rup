@@ -1,6 +1,4 @@
-# Hello, I'm [Rupanjan Ghosh] 👋
-
-![Banner Image](https://your-banner-image-url.com)
+# Hello, I'm Rupanjan Ghosh 👋
 
 ## 🚀 About Me
 I'm a passionate Computer Science student pursuing a B.Tech with a specialization in Artificial Intelligence and Machine Learning. I'm eager to contribute to the tech world, and I'm currently focused on honing my skills in programming, AI, and software development.
@@ -18,10 +16,6 @@ I'm a passionate Computer Science student pursuing a B.Tech with a specializatio
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 - **Completed Internship at Codsoft**: Focused on programming with Java.
